@@ -1,2 +1,2 @@
-# CF_CONTROLE_FUNCION-RIOS
+# CF_CONTROLE_FUNCIONARIOS
 Projeto Controle de Funcionários 
